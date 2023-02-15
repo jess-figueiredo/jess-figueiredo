@@ -1,7 +1,7 @@
 ### Oi! eu sou a Jéssica Figueiredo 👋
 
 - 🎲 Estudante de BTI.
-- 🔭 Estagiária em Testes de Software.
+- 🔭 Estagiária em Testes e Controle de Qualidade de Software.
 - 🌱 Estudando Java.
 
 ##
