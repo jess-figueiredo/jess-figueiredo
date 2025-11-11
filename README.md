@@ -3,6 +3,7 @@
 - 🎲 Estudante de BTI.
 - 🔭 QA na empresa ESIG Software.
 - 🌱 Estudando Java.
+- 🤖 Aprendiz no N8N
 
 ##
 
